@@ -12,8 +12,6 @@ https://
 
 A aplicação consiste em uma Landing-page, onde é possivel ter o primeiro contato com o serviço fornecido.
 
-## Layout web
-![Visualização do design Web](asset/design/desktop-preview.jpg)
 ##
 
 # Tecnologias utilizadas
