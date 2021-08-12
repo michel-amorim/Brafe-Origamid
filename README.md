@@ -8,9 +8,7 @@ https://
 
 ## Sobre o projeto
 
-*Brafé* é uma aplicação Frontend web e mobile contruída por mim, com intuito de treinar minhas habilidades HTML e CSS.
-
-Layout do site de desafios [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
+*Brafé* é uma aplicação Frontend web e mobile contruída por mim junto ao curso Origamid, com intuito de treinar posicionametos CSS.
 
 A aplicação consiste em uma Landing-page, onde é possivel ter o primeiro contato com o serviço fornecido.
 
